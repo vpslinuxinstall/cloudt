@@ -1,7 +1,7 @@
 # cloudt      
 
 ```
-https://raw.githubusercontent.com/vpslinuxinstall/cloudt/master/cloudt.sh        
+wget https://raw.githubusercontent.com/vpslinuxinstall/cloudt/master/cloudt.sh        
 
 chmod +x cloudt.sh      
 
