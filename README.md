@@ -26,7 +26,7 @@ chmod +x cloud-torrent_linux_386
 
 ```      
 
-* simple-torrent
+# simple-torrent
 
 ```
 wget https://raw.githubusercontent.com/vpslinuxinstall/cloudt/master/cloud-torrent_linux_amd64.gz
