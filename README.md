@@ -26,7 +26,11 @@ chmod +x cloud-torrent_linux_386
 
 ```      
 
+* simple-torrent
 
+```
+
+```
 
 
 
